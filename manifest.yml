@@ -4,4 +4,4 @@ applications:
   path: srv/target/bookstore-exec.jar
   random-route: true
   services:
-  - bookstore-hana
+  - bo
